@@ -1,0 +1,4 @@
+# requirements.txt (VULNERABLE)
+pytest==7.4.0
+requests==2.20.0  # VULNERABLE 
+urllib3==1.24.1   # VULNERABLE [cite: 31]
